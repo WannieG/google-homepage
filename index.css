@@ -9,7 +9,6 @@ ul {
   li {
     border-right: none;
   }
-  
   li:last-child {
     border-right: 15px solid rgb(255, 255, 255);
   }
