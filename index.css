@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+  }
+  li {
+    border-right: none;
+  }
+  
+  li:last-child {
+    border-right: 15px solid rgb(255, 255, 255);
+  }
